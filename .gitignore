@@ -1,0 +1,6 @@
+ECHO is on.
+env/
+__pycache__/
+*.sqlite3
+*.pyc
+db.sqlite3
